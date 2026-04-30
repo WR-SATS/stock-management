@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Generated from the source Excel workbook and may contain operational samples.
+docs/workbook-profile.json
+docs/workbook-inspect.ndjson
+docs/workbook-sheets.ndjson
